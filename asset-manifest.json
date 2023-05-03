@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://gonzalo-rr.github.io/lomap_es4a/static/css/main.14c2444f.css",
-    "main.js": "https://gonzalo-rr.github.io/lomap_es4a/static/js/main.8f234aef.js",
+    "main.js": "https://gonzalo-rr.github.io/lomap_es4a/static/js/main.e1afb609.js",
     "static/js/787.994511a4.chunk.js": "https://gonzalo-rr.github.io/lomap_es4a/static/js/787.994511a4.chunk.js",
     "static/media/slick.svg": "https://gonzalo-rr.github.io/lomap_es4a/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "https://gonzalo-rr.github.io/lomap_es4a/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "https://gonzalo-rr.github.io/lomap_es4a/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "https://gonzalo-rr.github.io/lomap_es4a/index.html",
     "main.14c2444f.css.map": "https://gonzalo-rr.github.io/lomap_es4a/static/css/main.14c2444f.css.map",
-    "main.8f234aef.js.map": "https://gonzalo-rr.github.io/lomap_es4a/static/js/main.8f234aef.js.map",
+    "main.e1afb609.js.map": "https://gonzalo-rr.github.io/lomap_es4a/static/js/main.e1afb609.js.map",
     "787.994511a4.chunk.js.map": "https://gonzalo-rr.github.io/lomap_es4a/static/js/787.994511a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14c2444f.css",
-    "static/js/main.8f234aef.js"
+    "static/js/main.e1afb609.js"
   ]
 }
